@@ -1,2 +1,20 @@
-# -money-banking-deposit-skill
-A skill for Money and Banking course study
+# ppp-exchange-rate-skill
+货币银行学Skill：购买力平价PPP汇率计算工具
+
+## 项目简介
+本Skill基于购买力平价理论（PPP），计算绝对购买力平价、相对购买力平价，测算理论汇率，理解物价和汇率之间的关系。选题不与其他同学重复。
+
+### Skill功能
+1. 绝对购买力平价：两国物价计算理论汇率
+2. 相对购买力平价：通胀测算汇率变化
+3. 输出货币银行学知识点解析
+
+## 文件说明
+- SKILL.md：Skill主体文件，包含计算逻辑、参数、案例与理论说明
+
+## 公式
+绝对PPP：E = P_d / P_f
+相对PPP：汇率变动率 ≈ 本国通胀率 − 外国通胀率
+
+作者：chengle818
+课程：货币银行学
